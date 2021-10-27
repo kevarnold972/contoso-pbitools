@@ -1,0 +1,16 @@
+{
+  "name": "Weight Unit Measure",
+  "dataType": "string",
+  "sourceColumn": "Weight Unit Measure",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    }
+  ]
+}

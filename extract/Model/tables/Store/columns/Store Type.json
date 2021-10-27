@@ -1,0 +1,16 @@
+{
+  "name": "Store Type",
+  "dataType": "string",
+  "sourceColumn": "Store Type",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    }
+  ]
+}

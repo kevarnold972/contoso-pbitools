@@ -1,0 +1,4 @@
+<Measure Name="Total Unit Discount">
+  <Description>This measure is the sum of column 'Sales'[Unit Discount]</Description>
+  <FormatString>0.00</FormatString>
+</Measure>

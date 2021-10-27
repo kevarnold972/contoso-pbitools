@@ -1,0 +1,4 @@
+<Measure Name="Total Net Price">
+  <Description>This measure is the sum of column 'Sales'[Net Price]</Description>
+  <FormatString>0.00</FormatString>
+</Measure>

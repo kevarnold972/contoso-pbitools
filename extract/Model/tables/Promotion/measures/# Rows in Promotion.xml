@@ -1,0 +1,4 @@
+<Measure Name="# Rows in Promotion">
+  <Description>This measure is the number of rows in table 'Promotion'</Description>
+  <FormatString>0</FormatString>
+</Measure>

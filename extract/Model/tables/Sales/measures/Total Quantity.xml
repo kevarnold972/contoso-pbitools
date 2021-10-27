@@ -1,0 +1,4 @@
+<Measure Name="Total Quantity">
+  <Description>This measure is the sum of column 'Sales'[Quantity]</Description>
+  <FormatString>0.00</FormatString>
+</Measure>

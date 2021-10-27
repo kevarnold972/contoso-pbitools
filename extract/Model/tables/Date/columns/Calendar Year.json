@@ -1,0 +1,16 @@
+{
+  "name": "Calendar Year",
+  "dataType": "string",
+  "sourceColumn": "Calendar Year",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    }
+  ]
+}

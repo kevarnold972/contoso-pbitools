@@ -1,0 +1,14 @@
+{
+  "name": "Date",
+  "dataCategory": "Time",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

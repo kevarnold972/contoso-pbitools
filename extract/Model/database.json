@@ -1,0 +1,92 @@
+{
+  "name": "Contoso",
+  "compatibilityLevel": 1550,
+  "model": {
+    "culture": "en-US",
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "sourceQueryCulture": "en-US",
+    "relationships": [
+      {
+        "name": "8debce3d-680f-45cb-969e-54cf5d777035",
+        "fromTable": "Sales",
+        "fromColumn": "CustomerKey",
+        "toTable": "Customer",
+        "toColumn": "CustomerKey"
+      },
+      {
+        "name": "7e45d44a-803a-48ad-9e78-a27fd676831e",
+        "fromTable": "Sales",
+        "fromColumn": "ProductKey",
+        "toTable": "Product",
+        "toColumn": "ProductKey"
+      },
+      {
+        "name": "2b02c6b8-f720-4e2d-a37a-6d16ab800f33",
+        "fromTable": "Sales",
+        "fromColumn": "PromotionKey",
+        "toTable": "Promotion",
+        "toColumn": "PromotionKey"
+      },
+      {
+        "name": "15fe9869-1abd-4431-b91f-120e0edb5ae7",
+        "fromTable": "Sales",
+        "fromColumn": "StoreKey",
+        "toTable": "Store",
+        "toColumn": "StoreKey"
+      },
+      {
+        "name": "ef51289b-55dd-42a5-86db-74f5b14e53ac",
+        "fromTable": "Sales",
+        "fromColumn": "Order Date",
+        "toTable": "Date",
+        "toColumn": "Date"
+      },
+      {
+        "name": "b19aea1e-86b6-4394-b543-e6e61a7b6226",
+        "fromTable": "Sales",
+        "fromColumn": "Delivery Date",
+        "toTable": "Date",
+        "toColumn": "Date",
+        "isActive": false
+      }
+    ],
+    "expressions": [
+      {
+        "name": "Contoso Folder",
+        "kind": "m",
+        "annotations": [
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
+          },
+          {
+            "name": "PBI_ResultType",
+            "value": "Table"
+          }
+        ]
+      }
+    ],
+    "annotations": [
+      {
+        "name": "PBIDesktopVersion",
+        "value": "2.96.701.0 (21.08)"
+      },
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "0"
+      },
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"Contoso Folder\",\"Customer\",\"Date\",\"Product\",\"Promotion\",\"Sales\",\"Store\"]"
+      },
+      {
+        "name": "__TEdtr",
+        "value": "1"
+      }
+    ]
+  }
+}

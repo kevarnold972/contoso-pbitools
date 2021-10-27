@@ -1,0 +1,17 @@
+{
+  "name": "Children At Home",
+  "dataType": "int64",
+  "sourceColumn": "Children At Home",
+  "formatString": "0",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    }
+  ]
+}

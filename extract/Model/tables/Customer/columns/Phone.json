@@ -1,0 +1,16 @@
+{
+  "name": "Phone",
+  "dataType": "string",
+  "sourceColumn": "Phone",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    }
+  ]
+}

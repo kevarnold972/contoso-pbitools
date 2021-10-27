@@ -1,0 +1,16 @@
+{
+  "name": "Customer Type",
+  "dataType": "string",
+  "sourceColumn": "Customer Type",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    }
+  ]
+}

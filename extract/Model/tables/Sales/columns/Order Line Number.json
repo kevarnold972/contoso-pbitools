@@ -1,0 +1,18 @@
+{
+  "name": "Order Line Number",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "Order Line Number",
+  "formatString": "0",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"NumberWhole\" Accuracy=\"0\" />"
+    }
+  ]
+}

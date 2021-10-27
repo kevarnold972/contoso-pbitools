@@ -1,0 +1,16 @@
+{
+  "name": "Address Line 2",
+  "dataType": "string",
+  "sourceColumn": "Address Line 2",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    }
+  ]
+}
