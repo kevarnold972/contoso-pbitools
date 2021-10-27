@@ -2,7 +2,7 @@
   "name": "Open Date",
   "dataType": "dateTime",
   "sourceColumn": "Open Date",
-  "formatString": "mm/dd/yyyy",
+  "formatString": "General Date",
   "summarizeBy": "none",
   "annotations": [
     {

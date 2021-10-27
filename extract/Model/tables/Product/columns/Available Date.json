@@ -2,7 +2,7 @@
   "name": "Available Date",
   "dataType": "dateTime",
   "sourceColumn": "Available Date",
-  "formatString": "mm/dd/yyyy",
+  "formatString": "General Date",
   "summarizeBy": "none",
   "annotations": [
     {

@@ -2,7 +2,7 @@
   "name": "Start Date",
   "dataType": "dateTime",
   "sourceColumn": "Start Date",
-  "formatString": "mm/dd/yyyy",
+  "formatString": "General Date",
   "summarizeBy": "none",
   "annotations": [
     {

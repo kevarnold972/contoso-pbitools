@@ -2,7 +2,7 @@
   "name": "Calendar Year Month",
   "dataType": "dateTime",
   "sourceColumn": "Calendar Year Month",
-  "formatString": "Long Date",
+  "formatString": "mmmm",
   "summarizeBy": "none",
   "annotations": [
     {
@@ -14,8 +14,12 @@
       "value": "Date"
     },
     {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"FormatString\"]"
+    },
+    {
       "name": "Format",
-      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1033\" Group=\"LongDate\" FormatString=\"D\" /></DateTimes></Format>"
+      "value": "<Format Format=\"Custom\" Custom=\"MMMM\" />"
     }
   ]
 }

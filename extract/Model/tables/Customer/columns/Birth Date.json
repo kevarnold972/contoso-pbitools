@@ -2,7 +2,7 @@
   "name": "Birth Date",
   "dataType": "dateTime",
   "sourceColumn": "Birth Date",
-  "formatString": "mm/dd/yyyy",
+  "formatString": "General Date",
   "summarizeBy": "none",
   "annotations": [
     {

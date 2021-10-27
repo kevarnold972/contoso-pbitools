@@ -2,7 +2,7 @@
   "name": "Close Date",
   "dataType": "dateTime",
   "sourceColumn": "Close Date",
-  "formatString": "mm/dd/yyyy",
+  "formatString": "General Date",
   "summarizeBy": "none",
   "annotations": [
     {

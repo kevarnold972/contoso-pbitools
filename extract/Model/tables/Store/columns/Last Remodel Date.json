@@ -2,7 +2,7 @@
   "name": "Last Remodel Date",
   "dataType": "dateTime",
   "sourceColumn": "Last Remodel Date",
-  "formatString": "mm/dd/yyyy",
+  "formatString": "General Date",
   "summarizeBy": "none",
   "annotations": [
     {

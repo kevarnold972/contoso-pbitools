@@ -3,7 +3,7 @@
   "dataType": "dateTime",
   "isHidden": true,
   "sourceColumn": "Delivery Date",
-  "formatString": "mm/dd/yyyy",
+  "formatString": "General Date",
   "summarizeBy": "none",
   "annotations": [
     {
